@@ -3,7 +3,11 @@ The Code for paper Perceptual evaluation of audio degradations for CODEC process
 The repo includes the Optimiser(Monte Carlo, Genetic Algorithm, Reinforcement Learing) source CODE as well as the comparsion 
 
 AudioEx folder include the audio example use in the experiments.
+<p></p>
 CODECbreakCODE is the basic module CODE.
+<p></p>
 Data_Analysis is the optimiser module figure and the experiment result;
+<p></p>
 Optimiser_Comparison is the example how to use the optimiser in high dimension space.
+<p></p>
 Subject_Dataset is the dataset of subjective listening test and the correlation calculation between the subjective dataset and objective metric. 
